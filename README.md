@@ -49,11 +49,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flaam.flaam&right_color=rebeccapurple&left_text=Visitors"  />
 
 ###
+<div align="center">
 
-<div align="left">
-  <a href="https://open.spotify.com/user/qsw15q1t60hmsuwccy7fqai1c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
-  </a>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qsw15q1t60hmsuwccy7fqai1c&unique={true|1|on|yes})
+
 </div>
-
-###
