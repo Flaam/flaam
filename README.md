@@ -40,14 +40,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/48182219?v=4"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/Flaam/flaam/output/snake.svg" alt="Snake animation" />
 
 ###
